@@ -16,9 +16,9 @@
 <li>Google Places/Maps API</li>
 </ul>
 
-# Backend Repo
+# Frontend Repo
 
-https://github.com/paige-throck/CRE-Advantage-Backend
+https://github.com/paige-throck/CRE-Advantage
 
 
 # Wireframe
