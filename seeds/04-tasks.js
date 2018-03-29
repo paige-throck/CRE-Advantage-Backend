@@ -18,7 +18,7 @@ exports.seed = function(knex, Promise) {
         {user_id:userIds[0], item:'Task 2', task_date:"2018-03-30", completed:false},
         {user_id:userIds[0], item:'Task 3', task_date:"2018-03-30", completed:false},
         {user_id:userIds[0], item:'Task 4', task_date:"2018-03-30", completed:false},
-        {user_id:userIds[0], item:'Task 5', task_date:"2018-03-30", completed:false}
+        {user_id:userIds[0], item:'Task 5', task_date:"2018-03-30", completed:false},
 
         {user_id:userIds[1], item:'Task 1', task_date:"2018-03-29", completed:false},
         {user_id:userIds[1], item:'Task 2', task_date:"2018-03-20", completed:false},
@@ -30,7 +30,7 @@ exports.seed = function(knex, Promise) {
         {user_id:userIds[2], item:'Task 2', task_date:"2018-03-18", completed:false},
         {user_id:userIds[2], item:'Task 3', task_date:"2018-03-18", completed:false},
         {user_id:userIds[2], item:'Task 4', task_date:"2018-03-18", completed:false},
-        {user_id:userIds[2], item:'Task 5', task_date:"2018-03-18", completed:false}
+        {user_id:userIds[2], item:'Task 5', task_date:"2018-03-18", completed:false},
 
 
       ]);
