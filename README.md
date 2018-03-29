@@ -21,7 +21,7 @@
 https://github.com/paige-throck/CRE-Advantage
 
 # Video
-[![Alt text](https://www.youtube.com/watch?v=c0jQ7dTSHZg&feature=youtu.be)]
+https://youtu.be/c0jQ7dTSHZg
 
 
 # Wireframe
